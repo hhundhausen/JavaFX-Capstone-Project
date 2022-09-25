@@ -45,7 +45,7 @@
 
 -The button **Modify Review* allows the user to alter any of the previously provided fields by selecting it. 
 
-<img width="797" alt="Modify2" src="https://user-images.githubusercontent.com/97565624/192160406-b7ea96b9-f555-4489-90e4-90f762661734.png">
+<img width="600" alt="Modify2" src="https://user-images.githubusercontent.com/97565624/192160406-b7ea96b9-f555-4489-90e4-90f762661734.png">
 
 -When a user initially accesses the modify page, it will look precisely like the screenshot above, only with the specific review they have chosen.
 
