@@ -43,11 +43,11 @@
 
 <img width="600" alt="Modify1" src="https://user-images.githubusercontent.com/97565624/192160305-b1a94125-b2f2-46ec-b55e-4f9a971573a5.png">
 
--The button **Modify Review* allows the user to alter any of the previously provided fields by selecting it. 
+- The button **Modify Review* allows the user to alter any of the previously provided fields by selecting it. 
 
 <img width="600" alt="Modify2" src="https://user-images.githubusercontent.com/97565624/192160406-b7ea96b9-f555-4489-90e4-90f762661734.png">
 
--When a user initially accesses the modify page, it will look precisely like the screenshot above, only with the specific review they have chosen.
+- When a user initially accesses the modify page, it will look precisely like the screenshot above, only with the specific review they have chosen.
 
 **Project Skills Used** 
 - Java Programming 
